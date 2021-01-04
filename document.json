@@ -1,0 +1,65 @@
+{
+  "name": "Test - Flower Classification Notebook",
+  "description": "Notebook for flower classifications",
+  "logo": "_images/Flower.png",
+  "has_supporting_content": false,
+  "stack_id": "Test_-_Flower_Classification_Notebook_notebook_1609755384582",
+  "de_catalog_id": "Test_-_Flower_Classification_Notebook_notebook_1609755384582",
+  "type": "Notebook",
+  "Categories": [
+    "Others"
+  ],
+  "source_repo": "https://github.com/i-data-explorer/flower-classification-notebook.git",
+  "cover": "cover.md",
+  "use_explorer_dataset": true,
+  "explorer_catalog_id": "flower_classification_dataset",
+  "use_catalog_dataset": "",
+  "is_s3_type": false,
+  "buckets": [],
+  "meta": {
+    "Install Time": [
+      "2 minutes"
+    ],
+    "Type": [
+      "Notebook"
+    ],
+    "Dataset": [
+      "Flower Classification Data"
+    ],
+    "Categories": [
+      "Others"
+    ],
+    "Catalog Id": [
+      "Test_-_Flower_Classification_Notebook_notebook_1609755384582"
+    ],
+    "buckets": [],
+    "Contact": [
+      "freedavales@xyz.com"
+    ],
+    "Preferred Platform": [
+      "OpenShift / Kubernetes"
+    ],
+    "Last updated": [
+      "Jan 03 2021"
+    ],
+    "Managed By": [
+      "EDGE"
+    ],
+    "License and Use Rights": [
+      "Apache"
+    ]
+  },
+  "commands": [
+    {
+      "description": "",
+      "exec": ""
+    }
+  ],
+  "display": [
+    {
+      "name": "Developer Dashboard",
+      "url": "##DNS.host##/codeserver",
+      "enabled": true
+    }
+  ]
+}
